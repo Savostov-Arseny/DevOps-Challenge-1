@@ -1,6 +1,5 @@
 Solution for devops challenge.
 ===
-`<link>`
 [![](https://img.youtube.com/vi/E76YJIvq0Zo/0.jpg)](https://www.youtube.com/watch?v=E76YJIvq0Zo)
 
 Task:
