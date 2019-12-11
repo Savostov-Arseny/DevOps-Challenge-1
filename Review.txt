@@ -1,0 +1,10 @@
+savostov.arseny@gmail.com
+
+
+ALLOCATION_ID можно было передать в user_data.tmpl файл также как и var.tag_name
+Тогда не понадобилось вот это
+                "ec2:DescribeAddresses",
+
+
+ami_id можно было сделать автоматически а не переменной.
+для aws_cli не нужен порт 443.
